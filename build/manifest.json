@@ -1,0 +1,20 @@
+{
+  "name": "Würfelapp",
+  "short_name": "Würfeln",
+  "icons": [
+    {
+      "src": "dice_256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "dice_128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#C10020",
+  "background_color": "#000000"
+}

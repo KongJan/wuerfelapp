@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3dc1b48d.chunk.css",
+    "main.js": "/static/js/main.af8f1338.chunk.js",
+    "main.js.map": "/static/js/main.af8f1338.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.39c9fa57.js",
+    "runtime-main.js.map": "/static/js/runtime-main.39c9fa57.js.map",
+    "static/css/2.658248ec.chunk.css": "/static/css/2.658248ec.chunk.css",
+    "static/js/2.a87c96f3.chunk.js": "/static/js/2.a87c96f3.chunk.js",
+    "static/js/2.a87c96f3.chunk.js.map": "/static/js/2.a87c96f3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.3dc1b48d.chunk.css.map": "/static/css/main.3dc1b48d.chunk.css.map",
+    "static/js/2.a87c96f3.chunk.js.LICENSE.txt": "/static/js/2.a87c96f3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/bg.c8b40f5f.jpg",
+    "static/media/box-arrow-in-right.svg": "/static/media/box-arrow-in-right.bf7998fe.svg",
+    "static/media/card-list.svg": "/static/media/card-list.9164eb18.svg",
+    "static/media/dice-2-fill.svg": "/static/media/dice-2-fill.ec500e06.svg",
+    "static/media/dice-4-fill.svg": "/static/media/dice-4-fill.430ca941.svg",
+    "static/media/dice-6-fill.svg": "/static/media/dice-6-fill.6d4d08e9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39c9fa57.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.a87c96f3.chunk.js",
+    "static/css/main.3dc1b48d.chunk.css",
+    "static/js/main.af8f1338.chunk.js"
+  ]
+}
