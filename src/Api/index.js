@@ -44,7 +44,7 @@ const withApi = WrappedComponent => {
     render() {
       // ... and renders the wrapped component with the fresh data!
       // Notice that we pass through any additional props
-      return <WrappedComponent login={this.login} {...this.props} />;
+      return <WrappedComponent login={this.login} inventoryList={this.inventoryList} {...this.props} />;
     }
   };
 
